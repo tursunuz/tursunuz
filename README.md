@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  I build Android games, small indie projects, and practical software for everyday use.
+  I work on classic game compatibility, build small games, and develop practical utilities.
   <br>
   <a href="https://github.com/tursunuz?tab=repositories"><strong>Browse repositories</strong></a>
   · tursunuz.com (coming soon)
@@ -11,7 +11,8 @@
 
 ## Projects
 
-- **Android releases** — Installable APKs for mobile games and Android projects.
+- **Classic game compatibility** — Projects that help older games run on current Android versions and modern devices.
+- **Android releases** — Installable APKs for my Android projects.
 - **Indie games** — Small games for the web and desktop.
 - **Utilities** — Tools and automations that simplify everyday tasks.
 
