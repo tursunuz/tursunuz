@@ -1,16 +1,20 @@
-## Hi there 👋
+<p align="center">
+  <img src="banner.png" alt="tursunuz · Android releases, indie games, and utilities" width="100%">
+</p>
 
-<!--
-**tursunuz/tursunuz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  I build Android games, small indie projects, and practical software for everyday use.
+  <br>
+  <a href="https://github.com/tursunuz?tab=repositories"><strong>Browse repositories</strong></a>
+  · tursunuz.com (coming soon)
+</p>
 
-Here are some ideas to get you started:
+## Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Android releases** — Installable APKs for mobile games and Android projects.
+- **Indie games** — Small games for the web and desktop.
+- **Utilities** — Tools and automations that simplify everyday tasks.
+
+## Downloads
+
+Open a project's **Releases** page for available builds and release notes. Check its README for installation instructions, supported platforms, and usage details.
